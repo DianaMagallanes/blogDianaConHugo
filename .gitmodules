@@ -1,3 +1,6 @@
 [submodule "themes/hugo-PaperMod"]
 	path = themes/hugo-PaperMod
 	url = https://github.com/DianaMagallanes/hugo-PaperMod.git
+[submodule "public"]
+	path = public
+	url = https://github.com/DianaMagallanes/blogDianaHugoWebpage.git
